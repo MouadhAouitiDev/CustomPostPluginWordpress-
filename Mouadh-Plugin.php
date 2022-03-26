@@ -41,7 +41,7 @@ class MouadhPlugin{
 
 
 	 function custom_post_type(){
-		 register_post_type('Book',['public'=> true,'label'=>'Imed']);
+		 register_post_type('Book',['public'=> true,'label'=>'book']);
 
 
 	 }
