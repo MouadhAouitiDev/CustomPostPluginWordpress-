@@ -8,7 +8,7 @@
 class MouadhPluginActivate{
 
     public static function activate(){
-        echo'test manel plugin';
+        echo'test test plugin';
 		
 		
 
